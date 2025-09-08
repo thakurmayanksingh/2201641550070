@@ -1,9 +1,7 @@
-# AFFORDMED ASSIGNMENT
-This project is my submission for the Affordmed evaluation.  
+This project is my submission. 
 It implements a simple URL shortening service with custom logging middleware, redirect handling, and click statistics.
 
 ### Author
-- **Name:** Mayank Singh  
 - **Roll No:** 2201641550070  
 - **Email:** mst29310@gmail.com  
 - **GitHub Username:** thakurmayanksingh 
